@@ -64,3 +64,4 @@ git remote add origin https://github.com/zwg481026/APITest.git是将你本地的
 然后执行下面的命令：  
 第一次推送master分支时，加上了 –u参数，Git会将本地的master分支内容推送的远程新的master分支，还会把2个master分支关联起来，在以后的推送或者拉取时就可以简化操作。  
 推送成功后，可以立刻在github页面中看到远程库的内容已经和本地一模一样了，登录你的github，从仓库中查看。  
+https://github.com/Yzl011105/dasdasda  
